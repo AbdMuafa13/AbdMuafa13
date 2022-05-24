@@ -88,6 +88,21 @@ Here are some ideas to get you started:
  &emsp; 
 </p>
 
+## 📊 Github Stats (Expand to View)
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/AbdMuafa13"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdmuafa13&show_icons=true&locale=en&theme=algolia" alt="abdmuafa13" height="192px"/></a>
+	</p>
+	<p  align="center">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdmuafa13&show_icons=true&locale=en&layout=compact&theme=algolia" alt="abdmuafa13" height="192px"/>
+	</p>
+  <br/>
+  </p>
+</details>
+
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
