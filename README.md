@@ -94,7 +94,7 @@ Here are some ideas to get you started:
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudio&logoColor=white"></a>
  &emsp;
-    <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?logo=mspowerbi&logoColor=black"></a>
+    <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?logo=microstrategy&logoColor=black"></a>
  &emsp;
     <a href="#">
       <img alt="SharePoint" src="https://img.shields.io/badge/SharePoint-0078D4.svg" height="20">
