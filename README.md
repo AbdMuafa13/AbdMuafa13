@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi , I'm Abdullah Muafa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Front%20End%20|%20UI/UX;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Back%20End%20|%20Front%20End%20|%20UI/UX;Always%20Learning%20New%20Things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
 <h4 align="center">Hey there! I’m a creative Web Developer who loves to code, design, and innovate.
